@@ -6,7 +6,7 @@
 </div>
 
 
-Source code for AAAI 2025 paper [*Attribution Analysis Meets Model Editing: Advancing Knowledge Correction in Vision Language Models with VisEdit*.](https://arxiv.org/abs/2408.09916/)
+Source code for AAAI 2025 (Main Track) paper [*Attribution Analysis Meets Model Editing: Advancing Knowledge Correction in Vision Language Models with VisEdit*.](https://arxiv.org/abs/2408.09916/)
 
 # Setup
 1. Please download the E-EVQA and E-IC datasets from the URL provided in [1] and place the related folders in the `data` directory.
