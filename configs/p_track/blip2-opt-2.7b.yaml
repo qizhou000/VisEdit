@@ -1,0 +1,7 @@
+model_name: "blip2-opt-2.7b"
+num_layers: 32
+layer_module_tmp: "language_model.model.decoder.layers.{}"
+mlp_module_tmp: "language_model.model.decoder.layers.{}.fc2"
+attn_module_tmp: "language_model.model.decoder.layers.{}.self_attn"
+norm_path: "language_model.model.decoder.final_layer_norm"
+voc_path: "language_model.lm_head"

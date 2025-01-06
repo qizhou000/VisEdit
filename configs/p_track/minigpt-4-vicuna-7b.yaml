@@ -1,0 +1,9 @@
+model_name: "minigpt-4-vicuna-7b"
+num_layers: 32
+layer_module_tmp: "llama_model.model.layers.{}"
+mlp_module_tmp: "llama_model.model.layers.{}.mlp"
+attn_module_tmp: "llama_model.model.layers.{}.self_attn"
+norm_path: "llama_model.model.norm"
+voc_path: "llama_model.lm_head"
+
+
