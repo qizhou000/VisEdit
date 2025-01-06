@@ -1,7 +1,7 @@
 # VisEdit
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="figures/img_attribution.svg" alt="Attribution" style="width: 73%; margin-right: 5px;">
+  <img src="figures/img_attribution.svg" alt="Attribution" style="width: 70%; margin-right: 5px;">
   <img src="figures/img_method.svg" alt="Method" style="width: 27%;">
 </div>
 
