@@ -6,7 +6,7 @@
 </div>
 
 
-Source code for **AAAI 2025 (Oral)** paper [*Attribution Analysis Meets Model Editing: Advancing Knowledge Correction in Vision Language Models with VisEdit*.](https://arxiv.org/abs/2408.09916/)
+Source code for **AAAI 2025 (Oral)** paper [*Attribution Analysis Meets Model Editing: Advancing Knowledge Correction in Vision Language Models with VisEdit*.](https://ojs.aaai.org/index.php/AAAI/article/view/34622)
 
 # Setup
 0. Python version: 3.11.9
@@ -32,26 +32,29 @@ Please use the following script to test VEAD:
 
 
 # Citation
-Please cite our paper if you use VisEdit in your work (The AAAI citation is not yet available).
+Please cite our paper if this work has inspired or assisted you :)
 ```bibtex
-@article{DBLP:journals/corr/abs-2408-09916,
+@inproceedings{DBLP:conf/aaai/Chen00HWL25,
   author       = {Qizhou Chen and
                   Taolin Zhang and
                   Chengyu Wang and
                   Xiaofeng He and
                   Dakan Wang and
                   Tingting Liu},
+  editor       = {Toby Walsh and
+                  Julie Shah and
+                  Zico Kolter},
   title        = {Attribution Analysis Meets Model Editing: Advancing Knowledge Correction
                   in Vision Language Models with VisEdit},
-  journal      = {CoRR},
-  volume       = {abs/2408.09916},
-  year         = {2024},
-  url          = {https://doi.org/10.48550/arXiv.2408.09916},
-  doi          = {10.48550/ARXIV.2408.09916},
-  eprinttype    = {arXiv},
-  eprint       = {2408.09916},
-  timestamp    = {Fri, 15 Nov 2024 07:55:45 +0100},
-  biburl       = {https://dblp.org/rec/journals/corr/abs-2408-09916.bib},
+  booktitle    = {AAAI-25, Sponsored by the Association for the Advancement of Artificial
+                  Intelligence, February 25 - March 4, 2025, Philadelphia, PA, {USA}},
+  pages        = {2168--2176},
+  publisher    = {{AAAI} Press},
+  year         = {2025},
+  url          = {https://doi.org/10.1609/aaai.v39i2.32215},
+  doi          = {10.1609/AAAI.V39I2.32215},
+  timestamp    = {Thu, 17 Apr 2025 17:08:57 +0200},
+  biburl       = {https://dblp.org/rec/conf/aaai/Chen00HWL25.bib},
   bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 ```
