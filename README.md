@@ -6,7 +6,7 @@
 </div>
 
 
-Source code for **AAAI 2025 (Oral)** paper [*Attribution Analysis Meets Model Editing: Advancing Knowledge Correction in Vision Language Models with VisEdit*.](https://ojs.aaai.org/index.php/AAAI/article/view/34622)
+Source code for **AAAI 2025 (Oral)** paper [*Attribution Analysis Meets Model Editing: Advancing Knowledge Correction in Vision Language Models with VisEdit*.](https://ojs.aaai.org/index.php/AAAI/article/view/32215)
 
 # Setup
 0. Python version: 3.11.9
